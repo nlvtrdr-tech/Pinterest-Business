@@ -4,5 +4,5 @@ Seenafy is a personal automation application designed to automate content creati
 
 Seenafy is currently intended for personal use.
 
-[Privacy Policy](./privacy.html)
+[Privacy Policy](https://github.com/nlvtrdr-tech/Pinterest-Business/blob/main/Seenafy%20%E2%80%94%20Privacy%20Policy%20(1).md)
 
